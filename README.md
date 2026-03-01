@@ -67,8 +67,6 @@ A data science project analyzing US domestic airline routes, fares, and market c
 3. Recommended run order:
    - `Analysis.ipynb` — run first (loads and cleans the data, builds the model)
    - `InteractiveDashboards.ipynb` — interactive exploration of routes and fares
-   - `traveler_strategy_tool TEST.ipynb` — traveler strategy tool
-
 ## Dataset
 
 `airline_ticket_dataset.xlsx` contains 14,004 rows and 21 columns of US domestic airline route data, including city pairs, distances, passenger counts, fares, carrier market shares, and market structure metrics.
