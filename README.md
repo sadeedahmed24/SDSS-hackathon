@@ -8,7 +8,6 @@ A data science project analyzing US domestic airline routes, fares, and market c
 |----------|-------------|
 | `Analysis.ipynb` | Data loading, cleaning, exploratory data analysis, and a Random Forest fare prediction model |
 | `InteractiveDashboards.ipynb` | Interactive Plotly dashboards with ipywidgets for exploring routes and fares |
-| `traveler_strategy_tool TEST.ipynb` | Traveler-facing tool for comparing carriers and choosing routes |
 
 ## Prerequisites
 
